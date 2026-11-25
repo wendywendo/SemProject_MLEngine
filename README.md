@@ -1,3 +1,6 @@
-## Exploring the MM-Food-100K dataset
+## Food Image Classification using a Custom CNN
 
-**Output variable:** nutritional_profile
+An image-classification experiment using the Food-101 dataset and a convolutional neural network (CNN) implemented in Pytorch.
+
+**ML Approach** : Supervised Learning    
+**The expected ML output**: Food Name
